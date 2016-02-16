@@ -1,1 +1,0 @@
-print("U direktoriju nogomet nalaze se direktoriji real, barca i juventus")
